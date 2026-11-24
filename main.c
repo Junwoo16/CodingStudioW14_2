@@ -137,3 +137,5 @@ int addCards(struct st_card* p[], int n){
 
   return n+1;
 }
+
+// 안녕하세요
